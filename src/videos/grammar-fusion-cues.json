@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1,
+    "startSec": 0.2,
+    "endSec": 1.98,
+    "startFrame": 6,
+    "endFrame": 59,
+    "durFrames": 53,
+    "text": "Benkyou shinakereba naranai."
+  },
+  {
+    "id": 2,
+    "startSec": 3.049,
+    "endSec": 4.469,
+    "startFrame": 91,
+    "endFrame": 134,
+    "durFrames": 43,
+    "text": "Loh, kok ada bentuk negatif?"
+  },
+  {
+    "id": 3,
+    "startSec": 4.879,
+    "endSec": 7.33,
+    "startFrame": 146,
+    "endFrame": 220,
+    "durFrames": 74,
+    "text": "Nai, tapi artinya malah harus belajar?"
+  },
+  {
+    "id": 4,
+    "startSec": 8.33,
+    "endSec": 11.099,
+    "startFrame": 250,
+    "endFrame": 333,
+    "durFrames": 83,
+    "text": "Bukannya nai itu berarti tidak?"
+  },
+  {
+    "id": 5,
+    "startSec": 11.769,
+    "endSec": 13.55,
+    "startFrame": 353,
+    "endFrame": 407,
+    "durFrames": 54,
+    "text": "Nah, coba kita bongkar pelan-pelan."
+  },
+  {
+    "id": 6,
+    "startSec": 14.439,
+    "endSec": 16.059,
+    "startFrame": 433,
+    "endFrame": 482,
+    "durFrames": 49,
+    "text": "Kita mulai dari kata kerja dasar."
+  },
+  {
+    "id": 7,
+    "startSec": 16.809,
+    "endSec": 19.42,
+    "startFrame": 504,
+    "endFrame": 583,
+    "durFrames": 79,
+    "text": "Benkyou suru, artinya belajar."
+  },
+  {
+    "id": 8,
+    "startSec": 20.109,
+    "endSec": 21.85,
+    "startFrame": 603,
+    "endFrame": 656,
+    "durFrames": 53,
+    "text": "Sekarang kita ubah ke bentuk negatif."
+  },
+  {
+    "id": 9,
+    "startSec": 22.57,
+    "endSec": 24.309,
+    "startFrame": 677,
+    "endFrame": 729,
+    "durFrames": 52,
+    "text": "Suru menjadi shinai."
+  },
+  {
+    "id": 10,
+    "startSec": 25.21,
+    "endSec": 27.73,
+    "startFrame": 756,
+    "endFrame": 832,
+    "durFrames": 76,
+    "text": "Fungsi nai adalah menyatakan tidak."
+  },
+  {
+    "id": 11,
+    "startSec": 28.359,
+    "endSec": 31.269,
+    "startFrame": 851,
+    "endFrame": 938,
+    "durFrames": 87,
+    "text": "Jadi benkyou shinai berarti tidak belajar."
+  },
+  {
+    "id": 12,
+    "startSec": 32.17,
+    "endSec": 35.049,
+    "startFrame": 965,
+    "endFrame": 1051,
+    "durFrames": 86,
+    "text": "Sekarang ubah nai menjadi nakereba."
+  },
+  {
+    "id": 13,
+    "startSec": 35.89,
+    "endSec": 38.02,
+    "startFrame": 1077,
+    "endFrame": 1141,
+    "durFrames": 64,
+    "text": "Shinai menjadi shinakereba."
+  },
+  {
+    "id": 14,
+    "startSec": 38.74,
+    "endSec": 42.219,
+    "startFrame": 1162,
+    "endFrame": 1267,
+    "durFrames": 105,
+    "text": "Fungsi nakereba adalah menyatakan kondisi kalau tidak."
+  },
+  {
+    "id": 15,
+    "startSec": 42.969,
+    "endSec": 47.009,
+    "startFrame": 1289,
+    "endFrame": 1410,
+    "durFrames": 121,
+    "text": "Jadi benkyou shinakereba, artinya kalau tidak belajar."
+  },
+  {
+    "id": 16,
+    "startSec": 47.84,
+    "endSec": 51,
+    "startFrame": 1435,
+    "endFrame": 1530,
+    "durFrames": 95,
+    "text": "Tapi kalimatnya belum selesai. Kita baru menyebutkan kondisinya."
+  },
+  {
+    "id": 17,
+    "startSec": 51.85,
+    "endSec": 53.7,
+    "startFrame": 1556,
+    "endFrame": 1611,
+    "durFrames": 55,
+    "text": "Sekarang tambahkan naranai."
+  },
+  {
+    "id": 18,
+    "startSec": 54.5,
+    "endSec": 60.429,
+    "startFrame": 1635,
+    "endFrame": 1813,
+    "durFrames": 178,
+    "text": "Dalam pola ini, naranai bisa dipahami sebagai tidak boleh begitu, atau tidak bisa dibiarkan."
+  },
+  {
+    "id": 19,
+    "startSec": 61.21,
+    "endSec": 62.32,
+    "startFrame": 1836,
+    "endFrame": 1870,
+    "durFrames": 34,
+    "text": "Coba gabungkan logikanya."
+  },
+  {
+    "id": 20,
+    "startSec": 62.89,
+    "endSec": 65.59,
+    "startFrame": 1887,
+    "endFrame": 1968,
+    "durFrames": 81,
+    "text": "Benkyou shinakereba: kalau tidak belajar."
+  },
+  {
+    "id": 21,
+    "startSec": 66.28,
+    "endSec": 68.549,
+    "startFrame": 1988,
+    "endFrame": 2056,
+    "durFrames": 68,
+    "text": "Naranai: itu tidak boleh terjadi."
+  },
+  {
+    "id": 22,
+    "startSec": 69.31,
+    "endSec": 72.45,
+    "startFrame": 2079,
+    "endFrame": 2174,
+    "durFrames": 95,
+    "text": "Artinya kondisi tidak belajar tidak diperbolehkan."
+  },
+  {
+    "id": 23,
+    "startSec": 73.219,
+    "endSec": 76.829,
+    "startFrame": 2197,
+    "endFrame": 2305,
+    "durFrames": 108,
+    "text": "Kalau tidak belajar tidak boleh, berarti ya harus belajar!"
+  },
+  {
+    "id": 24,
+    "startSec": 77.659,
+    "endSec": 81.959,
+    "startFrame": 2330,
+    "endFrame": 2459,
+    "durFrames": 129,
+    "text": "Makanya benkyou shinakereba naranai, artinya harus belajar."
+  },
+  {
+    "id": 25,
+    "startSec": 82.769,
+    "endSec": 84.03,
+    "startFrame": 2483,
+    "endFrame": 2521,
+    "durFrames": 38,
+    "text": "Nah, sekarang paham kan?"
+  },
+  {
+    "id": 26,
+    "startSec": 84.329,
+    "endSec": 88.15,
+    "startFrame": 2530,
+    "endFrame": 2645,
+    "durFrames": 115,
+    "text": "Bentuk negatif nggak selalu membuat keseluruhan kalimat bermakna negatif."
+  },
+  {
+    "id": 27,
+    "startSec": 88.709,
+    "endSec": 94.629,
+    "startFrame": 2661,
+    "endFrame": 2839,
+    "durFrames": 178,
+    "text": "Ketika nakereba dan naranai digabung, keduanya membentuk pola yang menyatakan kewajiban."
+  },
+  {
+    "id": 28,
+    "startSec": 95.29,
+    "endSec": 96.709,
+    "startFrame": 2859,
+    "endFrame": 2901,
+    "durFrames": 42,
+    "text": "Inilah menariknya grammar Jepang."
+  },
+  {
+    "id": 29,
+    "startSec": 97.049,
+    "endSec": 102.379,
+    "startFrame": 2911,
+    "endFrame": 3071,
+    "durFrames": 160,
+    "text": "Dengan memahami fungsi setiap bagian, kita jadi tahu kenapa sebuah pola bisa menghasilkan makna tertentu."
+  },
+  {
+    "id": 30,
+    "startSec": 103.28,
+    "endSec": 108.379,
+    "startFrame": 3098,
+    "endFrame": 3251,
+    "durFrames": 153,
+    "text": "Nah, kamu juga bisa belajar menyusun pola seperti ini lewat fitur Grammar Fusion di SevnQuest."
+  },
+  {
+    "id": 31,
+    "startSec": 108.95,
+    "endSec": 109.65,
+    "startFrame": 3269,
+    "endFrame": 3290,
+    "durFrames": 21,
+    "text": "Caranya gampang:"
+  },
+  {
+    "id": 32,
+    "startSec": 110.019,
+    "endSec": 112.15,
+    "startFrame": 3301,
+    "endFrame": 3365,
+    "durFrames": 64,
+    "text": "Buka SevnQuest, lalu klik World."
+  },
+  {
+    "id": 33,
+    "startSec": 112.68,
+    "endSec": 113.819,
+    "startFrame": 3380,
+    "endFrame": 3415,
+    "durFrames": 35,
+    "text": "Masuk ke Dungeon."
+  },
+  {
+    "id": 34,
+    "startSec": 114.379,
+    "endSec": 116.109,
+    "startFrame": 3431,
+    "endFrame": 3483,
+    "durFrames": 52,
+    "text": "Pilih Dungeon Grammar Fusion."
+  },
+  {
+    "id": 35,
+    "startSec": 116.75,
+    "endSec": 122.859,
+    "startFrame": 3503,
+    "endFrame": 3686,
+    "durFrames": 183,
+    "text": "Di sini kamu akan dibimbing menyusun pola grammar langkah demi langkah, dari bentuk asal sampai menjadi pola tujuan."
+  },
+  {
+    "id": 36,
+    "startSec": 123.579,
+    "endSec": 127.76,
+    "startFrame": 3707,
+    "endFrame": 3833,
+    "durFrames": 126,
+    "text": "Jadi bukan cuma menghafal hasil akhirnya, tapi juga memahami proses terbentuknya."
+  },
+  {
+    "id": 37,
+    "startSec": 128.34,
+    "endSec": 130.62,
+    "startFrame": 3850,
+    "endFrame": 3919,
+    "durFrames": 69,
+    "text": "Yuk, coba Grammar Fusion di SevnQuest!"
+  },
+  {
+    "id": 38,
+    "startSec": 131.039,
+    "endSec": 134.389,
+    "startFrame": 3931,
+    "endFrame": 4032,
+    "durFrames": 101,
+    "text": "Jangan cuma hafal polanya, pahami cara menyusunnya."
+  }
+]
