@@ -27,6 +27,8 @@ import {Explainer as GrammarFusionVideo} from './videos/grammar-fusion/Explainer
 import {TOTAL_FRAMES as TOTAL_FRAMES_GRAMMAR_FUSION} from './videos/grammar-fusion/timing';
 import {TeShimauVideo} from './videos/te-shimau/TeShimauVideo';
 import {TOTAL_FRAMES as TOTAL_FRAMES_TESHIMAU} from './videos/te-shimau/timing';
+import {AgeruKureruMorauVideo} from './videos/ageru-kureru-morau/AgeruKureruMorauVideo';
+import {TOTAL_FRAMES as TOTAL_FRAMES_AGERU_KURERU_MORAU} from './videos/ageru-kureru-morau/timing';
 import {BeresBeresVideo} from './videos/beres-beres/BeresBeresVideo';
 import {TOTAL_FRAMES as TOTAL_FRAMES_BERES_BERES} from './videos/beres-beres/timing';
 import {TeOkuVideo} from './videos/te-oku/TeOkuVideo';
@@ -303,6 +305,28 @@ export const RemotionRoot: React.FC = () => {
         id="SevnQuestTeShimauClean"
         component={TeShimauVideo}
         durationInFrames={TOTAL_FRAMES_TESHIMAU}
+        fps={FPS}
+        width={W}
+        height={H}
+        defaultProps={{sfx: true, captions: false, voiceover: true, music: false}}
+      />
+
+      {/* あげる・くれる・もらう (01:39.560 = 2987 frame @ 30 FPS) */}
+      <Composition
+        id="SevnQuestAgeruKureruMorau"
+        component={AgeruKureruMorauVideo}
+        durationInFrames={TOTAL_FRAMES_AGERU_KURERU_MORAU}
+        fps={FPS}
+        width={W}
+        height={H}
+        defaultProps={{sfx: true, captions: true, voiceover: true, music: false}}
+      />
+
+      {/* あげる・くれる・もらう: tanpa subtitle (clean track) */}
+      <Composition
+        id="SevnQuestAgeruKureruMorauClean"
+        component={AgeruKureruMorauVideo}
+        durationInFrames={TOTAL_FRAMES_AGERU_KURERU_MORAU}
         fps={FPS}
         width={W}
         height={H}
